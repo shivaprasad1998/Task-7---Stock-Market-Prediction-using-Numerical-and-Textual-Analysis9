@@ -1,1 +1,3 @@
-# Task-7---Stock-Market-Prediction-using-Numerical-and-Textual-Analysis9
+# TSF_DataScienceandBusinessAnalyst_Task_7
+
+# Stock Market Prediction using Numerical and Textual Analysis
